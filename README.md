@@ -7,7 +7,5 @@
 Studying Computer Science at ___[Northern Illinois University](https://www.niu.edu/index.shtml)___   
    
 Interests:   
-- Creating game projects to learn programming and software architecture  
-- Math
-- Tennis, Anime, Reading
-
+- Creating game projects to learn programming  
+- Math, Statistics, Software Architecture, Algorithms, Linux
