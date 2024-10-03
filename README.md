@@ -8,6 +8,6 @@ Studying Computer Science at ___[Northern Illinois University](https://www.niu.e
    
 Interests:   
 - Creating game projects to learn programming and software architecture  
-- Math, Learning  
-- Pretty average tennis player
+- Math
+- Tennis, Anime, Reading
 
