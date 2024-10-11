@@ -9,4 +9,4 @@ Studying Computer Science at ___[Northern Illinois University](https://www.niu.e
 Interests:   
 - Creating games to learn programming  
 - Software Architecture, Algorithms, Linux
-- Other subjects: Math, Statistics, Teaching
+- Other subjects: Math, Statistics, Education
